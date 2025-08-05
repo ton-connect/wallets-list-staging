@@ -1,5 +1,4 @@
 [
-  "includeWallets": [
       {
           "appName": "tonwallet",
           "name": "TON Wallet",
