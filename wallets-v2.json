@@ -1,26 +1,26 @@
 [
     {
-        "appName": "tonwallet",
+        "app_name": "tonwallet",
         "name": "TON Wallet",
-        "imageUrl": "https://wallet.ton.org/assets/ui/qr-logo.png",
-        "aboutUrl": "https://chrome.google.com/webstore/detail/ton-wallet/nphplpgoakhhjchkkhmiggakijnkhfnd",
-        "universalLink": "https://wallet.ton.org/ton-connect",
-        "jsBridgeKey": "tonwallet",
-        "bridgeUrl": "https://bridge.tonapi.io/bridge",
+        "image_url": "https://wallet.ton.org/assets/ui/qr-logo.png",
+        "about_url": "https://chrome.google.com/webstore/detail/ton-wallet/nphplpgoakhhjchkkhmiggakijnkhfnd",
+        "universal_link": "https://wallet.ton.org/ton-connect",
+        "js_bridge_key": "tonwallet",
+        "bridge_url": "https://bridge.tonapi.io/bridge",
         "platforms": [
             "chrome",
             "android"
         ]
     },
     {
-        "appName": "nicegramWallet",
+        "app_name": "nicegram_wallet",
         "name": "Nicegram Wallet",
-        "imageUrl": "https://static.nicegram.app/icon.png",
-        "aboutUrl": "https://nicegram.app",
-        "universalLink": "https://nicegram.app/tc",
-        "deepLink": "nicegram-tc://",
-        "jsBridgeKey": "nicegramWallet",
-        "bridgeUrl": "https://tc.nicegram.app/bridge",
+        "image_url": "https://static.nicegram.app/icon.png",
+        "about_url": "https://nicegram.app",
+        "universal_link": "https://nicegram.app/tc",
+        "deep_link": "nicegram-tc://",
+        "js_bridge_key": "nicegram_wallet",
+        "bridge_url": "https://tc.nicegram.app/bridge",
         "platforms": [
             "ios",
             "android",
@@ -30,14 +30,14 @@
         ]
     },
     {
-        "appName": "cdcTonWallet",
-        "name": "Crypto.com DeFi Wallet",
-        "imageUrl": "https://apro-ncw-api-file.crypto.com/wallet/logo",
-        "aboutUrl": "https://crypto.com/defi-wallet",
-        "universalLink": "https://wallet.crypto.com/deeplink/ton-connect",
-        "deepLink": "dfw://",
-        "jsBridgeKey": "cdcTonWallet",
-        "bridgeUrl": "https://wallet.crypto.com/sse/tonbridge",
+        "app_name": "cdc_ton_wallet",
+        "name": "Crypto.com De_fi Wallet",
+        "image_url": "https://apro-ncw-api-file.crypto.com/wallet/logo",
+        "about_url": "https://crypto.com/defi-wallet",
+        "universal_link": "https://wallet.crypto.com/deeplink/ton-connect",
+        "deep_link": "dfw://",
+        "js_bridge_key": "cdc_ton_wallet",
+        "bridge_url": "https://wallet.crypto.com/sse/tonbridge",
         "platforms": [
             "ios",
             "android",
@@ -45,14 +45,14 @@
         ]
     },
     {
-        "appName": "trustwalletTon",
+        "app_name": "trustwallet_ton",
         "name": "Trust",
-        "imageUrl": "https://assets-cdn.trustwallet.com/dapps/trust.logo.png",
-        "aboutUrl": "https://trustwallet.com/about-us",
-        "bridgeUrl": "https://tonconnect.trustwallet.com/bridge",
-        "universalLink": "https://link.trustwallet.com/tc",
-        "deepLink": "trust://ton-connect",
-        "jsBridgeKey": "trustwalletTon",
+        "image_url": "https://assets-cdn.trustwallet.com/dapps/trust.logo.png",
+        "about_url": "https://trustwallet.com/about-us",
+        "bridge_url": "https://tonconnect.trustwallet.com/bridge",
+        "universal_link": "https://link.trustwallet.com/tc",
+        "deep_link": "trust://ton-connect",
+        "js_bridge_key": "trustwallet_ton",
         "platforms": [
             "chrome",
             "ios",
@@ -60,23 +60,23 @@
         ]
     },
     {
-        "appName": "onekey",
-        "name": "OneKey",
-        "imageUrl": "https://uni.onekey-asset.com/static/logo/onekey-x288.png",
-        "aboutUrl": "https://onekey.so",
-        "jsBridgeKey": "onekeyTonWallet",
+        "app_name": "onekey",
+        "name": "One_key",
+        "image_url": "https://uni.onekey-asset.com/static/logo/onekey-x288.png",
+        "about_url": "https://onekey.so",
+        "js_bridge_key": "onekey_ton_wallet",
         "platforms": [
             "chrome"
         ]
     },
     {
-        "appName": "hpyTonWallet",
-        "name": "HyperPay Wallet",
-        "imageUrl": "https://onchain-oss.hyperpay.online/images/logo.png",
-        "aboutUrl": "https://www.hyperpay.tech",
-        "universalLink": "https://www.hyperpay.tech/download&deeplink=hyperpay://web3/wallet/tonconnect",
-        "jsBridgeKey": "hpyTonWallet",
-        "bridgeUrl": "https://onchain-wallet.hyperpay.online/bridge",
+        "app_name": "hpy_ton_wallet",
+        "name": "Hyper_pay Wallet",
+        "image_url": "https://onchain-oss.hyperpay.online/images/logo.png",
+        "about_url": "https://www.hyperpay.tech",
+        "universal_link": "https://www.hyperpay.tech/download&deeplink=hyperpay://web3/wallet/tonconnect",
+        "js_bridge_key": "hpy_ton_wallet",
+        "bridge_url": "https://onchain-wallet.hyperpay.online/bridge",
         "platforms": [
             "ios",
             "android",
@@ -86,12 +86,12 @@
         ]
     },
     {
-        "appName": "unstoppable",
+        "app_name": "unstoppable",
         "name": "Unstoppable Wallet",
-        "imageUrl": "https://unstoppable.money/logo288.png",
-        "aboutUrl": "https://unstoppable.money/",
-        "universalLink": "https://unstoppable.money/ton-connect",
-        "bridgeUrl": "https://bridge.unstoppable.money/bridge",
+        "image_url": "https://unstoppable.money/logo288.png",
+        "about_url": "https://unstoppable.money/",
+        "universal_link": "https://unstoppable.money/ton-connect",
+        "bridge_url": "https://bridge.unstoppable.money/bridge",
         "platforms": [
             "ios",
             "android",
@@ -101,13 +101,13 @@
         ]
     },
     {
-        "appName": "foxwallet",
-        "name": "FoxWallet",
-        "imageUrl": "https://hc.foxwallet.com/img/logo.png",
-        "aboutUrl": "https://foxwallet.com/",
-        "universalLink": "https://link.foxwallet.com/tc",
-        "jsBridgeKey": "foxwallet",
-        "bridgeUrl": "https://connect.foxwallet.com/ton/bridge",
+        "app_name": "foxwallet",
+        "name": "Fox_wallet",
+        "image_url": "https://hc.foxwallet.com/img/logo.png",
+        "about_url": "https://foxwallet.com/",
+        "universal_link": "https://link.foxwallet.com/tc",
+        "js_bridge_key": "foxwallet",
+        "bridge_url": "https://connect.foxwallet.com/ton/bridge",
         "platforms": [
             "ios",
             "android",
@@ -117,14 +117,14 @@
         ]
     },
     {
-        "appName": "jambo",
+        "app_name": "jambo",
         "name": "Jambo",
-        "imageUrl": "https://cdn-prod.jambotechnology.xyz/content/jambo_288x288_02da416a6c.png",
-        "aboutUrl": "https://www.jambo.technology/",
-        "deepLink": "jambotc://",
-        "universalLink": "https://jambophone.xyz/",
-        "bridgeUrl": "https://bridge.tonapi.io/bridge",
-        "jsBridgeKey": "jambowallet",
+        "image_url": "https://cdn-prod.jambotechnology.xyz/content/jambo_288x288_02da416a6c.png",
+        "about_url": "https://www.jambo.technology/",
+        "deep_link": "jambotc://",
+        "universal_link": "https://jambophone.xyz/",
+        "bridge_url": "https://bridge.tonapi.io/bridge",
+        "js_bridge_key": "jambowallet",
         "platforms": [
             "android",
             "macos",
@@ -133,12 +133,12 @@
         ]
     },
     {
-        "appName": "Gate.io wallet",
+        "app_name": "Gate.io wallet",
         "name": "Gate.io wallet",
-        "imageUrl": "https://gimg2.gateimg.com/tgwallet/1730688473495507406-Gatewallet.png",
-        "aboutUrl": "https://www.gate.io",
-        "universalLink": "https://t.me/gateio_wallet_bot?attach=wallet",
-        "bridgeUrl": "https://dapp.gateio.services/tonbridge_api/bridge/v1",
+        "image_url": "https://gimg2.gateimg.com/tgwallet/1730688473495507406-Gatewallet.png",
+        "about_url": "https://www.gate.io",
+        "universal_link": "https://t.me/gateio_wallet_bot?attach=wallet",
+        "bridge_url": "https://dapp.gateio.services/tonbridge_api/bridge/v1",
         "platforms": [
             "ios",
             "android",
@@ -148,25 +148,25 @@
         ]
     },
     {
-        "appName": "coin98",
+        "app_name": "coin98",
         "name": "Coin98 ",
-        "imageUrl": "https://coin98.s3.ap-southeast-1.amazonaws.com/SocialLogo/ninetyeight.png",
-        "aboutUrl": "https://docs.coin98.com",
-        "deepLink": "coin98://ton-connect",
-        "bridgeUrl": "https://ton-bridge.coin98.tech/bridge",
+        "image_url": "https://coin98.s3.ap-southeast-1.amazonaws.com/Social_logo/ninetyeight.png",
+        "about_url": "https://docs.coin98.com",
+        "deep_link": "coin98://ton-connect",
+        "bridge_url": "https://ton-bridge.coin98.tech/bridge",
         "platforms": [
             "ios",
             "android"
         ],
-        "universalLink": "https://coin98.com/ton-connect"
+        "universal_link": "https://coin98.com/ton-connect"
     },
     {
-        "appName": "coin98TelegramWallet",
+        "app_name": "coin98Telegram_wallet",
         "name": "Coin98 Telegram Wallet",
-        "imageUrl": "https://coin98.s3.ap-southeast-1.amazonaws.com/SocialLogo/ninetyeight.png",
-        "aboutUrl": "https://docs.coin98.com",
-        "universalLink": "https://t.me/Coin98_bot?attach=wallet",
-        "bridgeUrl": "https://ton-bridge.coin98.tech/bridge",
+        "image_url": "https://coin98.s3.ap-southeast-1.amazonaws.com/Social_logo/ninetyeight.png",
+        "about_url": "https://docs.coin98.com",
+        "universal_link": "https://t.me/Coin98_bot?attach=wallet",
+        "bridge_url": "https://ton-bridge.coin98.tech/bridge",
         "platforms": [
             "ios",
             "android",
@@ -176,14 +176,14 @@
         ]
     },
     {
-        "appName": "miraiapp",
+        "app_name": "miraiapp",
         "name": "Mirai App",
-        "imageUrl": "https://cdn.mirailabs.co/miraihub/miraiapp-icon-288.png",
-        "aboutUrl": "https://mirai.app",
-        "universalLink": "https://go.miraiapp.io/ton-connect",
-        "deepLink": "miraiapp://",
-        "bridgeUrl": "https://bridge.tonapi.io/bridge",
-        "jsBridgeKey": "miraiapp",
+        "image_url": "https://cdn.mirailabs.co/miraihub/miraiapp-icon-288.png",
+        "about_url": "https://mirai.app",
+        "universal_link": "https://go.miraiapp.io/ton-connect",
+        "deep_link": "miraiapp://",
+        "bridge_url": "https://bridge.tonapi.io/bridge",
+        "js_bridge_key": "miraiapp",
         "platforms": [
             "ios",
             "android",
@@ -192,24 +192,24 @@
         ]
     },
     {
-        "appName": "nestwallet",
+        "app_name": "nestwallet",
         "name": "Nest Wallet",
-        "imageUrl": "https://storage.googleapis.com/nestwallet-public-resource-bucket/logo/nest_logo_square.png",
-        "aboutUrl": "https://www.nestwallet.xyz",
-        "jsBridgeKey": "nestwallet",
+        "image_url": "https://storage.googleapis.com/nestwallet-public-resource-bucket/logo/nest_logo_square.png",
+        "about_url": "https://www.nestwallet.xyz",
+        "js_bridge_key": "nestwallet",
         "platforms": [
             "chrome"
         ]
     },
     {
-        "appName": "tonflow",
+        "app_name": "tonflow",
         "name": "TONFLOW",
-        "imageUrl": "https://tonflow.app/assets/images/tonflow_ico_256.png",
-        "aboutUrl": "https://tonflow.app",
-        "universalLink": "https://tonflow.app/ton-connect",
-        "deepLink": "tonflow-tc://",
-        "bridgeUrl": "https://bridge.tonapi.io/bridge",
-        "jsBridgeKey": "tonflow",
+        "image_url": "https://tonflow.app/assets/images/tonflow_ico_256.png",
+        "about_url": "https://tonflow.app",
+        "universal_link": "https://tonflow.app/ton-connect",
+        "deep_link": "tonflow-tc://",
+        "bridge_url": "https://bridge.tonapi.io/bridge",
+        "js_bridge_key": "tonflow",
         "platforms": [
             "windows",
             "linux",
@@ -218,12 +218,12 @@
         ]
     },
     {
-        "appName": "Tonkeeper",
-        "name": "TonkeeperWeb",
-        "imageUrl": "https://raw.githubusercontent.com/tonkeeper/tonkeeper-web/0f197474c57937787608697e794ef2b20a62f0d4/apps/twa/public/logo-128x128.png",
-        "aboutUrl": "https://wallet.tonkeeper.com/",
-        "universalLink": "https://wallet.tonkeeper.com/ton-connect",
-        "bridgeUrl": "https://bridge.tonapi.io/bridge",
+        "app_name": "Tonkeeper",
+        "name": "Tonkeeper_web",
+        "image_url": "https://raw.githubusercontent.com/tonkeeper/tonkeeper-web/0f197474c57937787608697e794ef2b20a62f0d4/apps/twa/public/logo-128x128.png",
+        "about_url": "https://wallet.tonkeeper.com/",
+        "universal_link": "https://wallet.tonkeeper.com/ton-connect",
+        "bridge_url": "https://bridge.tonapi.io/bridge",
         "platforms": [
             "ios",
             "android",
@@ -233,25 +233,25 @@
         ]
     },
     {
-        "appName": "u2uWallet",
+        "app_name": "u2u_wallet",
         "name": "U2U Wallet",
-        "imageUrl": "https://u2-images.s3.ap-southeast-1.amazonaws.com/hdw/logo.jpg",
-        "aboutUrl": "https://u2u.xyz/ecosystem",
-        "deepLink": "u2wallet-tc://",
-        "universalLink": "https://u2u-wallet-app.uniultra.xyz/ton-connect",
-        "bridgeUrl": "https://ton-bridge.uniultra.xyz/bridge",
+        "image_url": "https://u2-images.s3.ap-southeast-1.amazonaws.com/hdw/logo.jpg",
+        "about_url": "https://u2u.xyz/ecosystem",
+        "deep_link": "u2wallet-tc://",
+        "universal_link": "https://u2u-wallet-app.uniultra.xyz/ton-connect",
+        "bridge_url": "https://ton-bridge.uniultra.xyz/bridge",
         "platforms": [
             "ios",
             "android"
         ]
     },
     {
-        "appName": "koloWeb3Wallet",
+        "app_name": "kolo_web3Wallet",
         "name": "Kolo Web3 Wallet",
-        "imageUrl": "https://raw.githubusercontent.com/onidev1/tc-assets/refs/heads/main/kolo_logo_288.png",
-        "aboutUrl": "https://kolo.xyz",
-        "universalLink": "https://t.me/kolo?attach=wallet",
-        "bridgeUrl": "https://web3-bridge.kolo.in/bridge",
+        "image_url": "https://raw.githubusercontent.com/onidev1/tc-assets/refs/heads/main/kolo_logo_288.png",
+        "about_url": "https://kolo.xyz",
+        "universal_link": "https://t.me/kolo?attach=wallet",
+        "bridge_url": "https://web3-bridge.kolo.in/bridge",
         "platforms": [
             "ios",
             "android",
@@ -261,32 +261,32 @@
         ],
         "features": [
             {
-                "name": "SendTransaction",
-                "maxMessages": 4,
-                "extraCurrencySupported": false
+                "name": "Send_transaction",
+                "max_messages": 4,
+                "extra_currency_supported": false
             }
         ]
     },
     {
-        "appName": "walletverse",
+        "app_name": "walletverse",
         "name": "Walletverse",
-        "imageUrl": "https://bridge.walletverse.io/logo.png",
-        "aboutUrl": "https://walletverse.io",
-        "universalLink": "https://bridge.walletverse.io/tonconnect",
-        "bridgeUrl": "https://bridge.walletverse.io/sse/bridge",
-        "jsBridgeKey": "walletverse",
+        "image_url": "https://bridge.walletverse.io/logo.png",
+        "about_url": "https://walletverse.io",
+        "universal_link": "https://bridge.walletverse.io/tonconnect",
+        "bridge_url": "https://bridge.walletverse.io/sse/bridge",
+        "js_bridge_key": "walletverse",
         "platforms": [
             "ios",
             "android"
         ]
     },
     {
-        "appName": "bybitMiniWallet",
+        "app_name": "bybit_mini_wallet",
         "name": "Bybit Mini Wallet",
-        "imageUrl": "https://raw.githubusercontent.com/bybit-web3/bybit-web3.github.io/main/docs/images/bybit-logo.png",
-        "aboutUrl": "https://www.bybit.com/web3",
-        "universalLink": "https://t.me/Bybit_Web3_wallet_bot?attach=wallet",
-        "bridgeUrl": "https://api-node.bybit.com/spot/api/web3/bridge/ton/bridge",
+        "image_url": "https://raw.githubusercontent.com/bybit-web3/bybit-web3.github.io/main/docs/images/bybit-logo.png",
+        "about_url": "https://www.bybit.com/web3",
+        "universal_link": "https://t.me/Bybit_web3_wallet_bot?attach=wallet",
+        "bridge_url": "https://api-node.bybit.com/spot/api/web3/bridge/ton/bridge",
         "platforms": [
             "ios",
             "android",
@@ -296,27 +296,27 @@
         ]
     },
     {
-        "appName": "ONTO",
+        "app_name": "ONTO",
         "name": "ONTO",
-        "imageUrl": "https://app.ont.io/ontoMsgPic/onto.png",
+        "image_url": "https://app.ont.io/onto_msg_pic/onto.png",
         "tondns": "onto.app",
-        "aboutUrl": "https://onto.app",
-        "universalLink": "https://link.onto.app/ton-connect",
-        "jsBridgeKey": "onto",
+        "about_url": "https://onto.app",
+        "universal_link": "https://link.onto.app/ton-connect",
+        "js_bridge_key": "onto",
         "platforms": [
             "ios",
             "android"
         ]
     },
     {
-        "appName": "defiway",
+        "app_name": "defiway",
         "name": "Defiway",
-        "imageUrl": "https://fs.defiway.com/icons/tonconnect-icon.png",
-        "aboutUrl": "https://wallet.defiway.com",
-        "universalLink": "https://wallet.defiway.com/ton-connect",
-        "deepLink": "defiway-tc://",
-        "bridgeUrl": "https://api.defiway.com/ton-connect",
-        "jsBridgeKey": "defiway",
+        "image_url": "https://fs.defiway.com/icons/tonconnect-icon.png",
+        "about_url": "https://wallet.defiway.com",
+        "universal_link": "https://wallet.defiway.com/ton-connect",
+        "deep_link": "defiway-tc://",
+        "bridge_url": "https://api.defiway.com/ton-connect",
+        "js_bridge_key": "defiway",
         "platforms": [
             "ios",
             "android",
@@ -325,11 +325,11 @@
         ]
     },
     {
-        "appName": "exoduswallet",
+        "app_name": "exoduswallet",
         "name": "Exodus",
-        "imageUrl": "https://www.exodus.com/brand/dl/images/Exodus_symbol.png",
-        "aboutUrl": "https://www.exodus.com/",
-        "jsBridgeKey": "exoduswallet",
+        "image_url": "https://www.exodus.com/brand/dl/images/Exodus_symbol.png",
+        "about_url": "https://www.exodus.com/",
+        "js_bridge_key": "exoduswallet",
         "platforms": [
             "ios",
             "android",
@@ -337,14 +337,14 @@
         ]
     },
     {
-        "appName": "echoooTonWallet",
-        "name": "EchoooWallet",
-        "imageUrl": "https://cdn.echooo.xyz/front-end/fw/2025-01-20/f27b7b41-66b4-4b5d-b3d4-a3ac1d8b34ba.png",
-        "aboutUrl": "https://www.echooo.xyz",
-        "universalLink": "https://www.echooo.xyz/ton-connect",
-        "deepLink": "echooo://",
-        "jsBridgeKey": "echoooTonWallet",
-        "bridgeUrl": "https://ton-connect-bridge.echooo.link/bridge",
+        "app_name": "echooo_ton_wallet",
+        "name": "Echooo_wallet",
+        "image_url": "https://cdn.echooo.xyz/front-end/fw/2025-01-20/f27b7b41-66b4-4b5d-b3d4-a3ac1d8b34ba.png",
+        "about_url": "https://www.echooo.xyz",
+        "universal_link": "https://www.echooo.xyz/ton-connect",
+        "deep_link": "echooo://",
+        "js_bridge_key": "echooo_ton_wallet",
+        "bridge_url": "https://ton-connect-bridge.echooo.link/bridge",
         "platforms": [
             "ios",
             "android",
@@ -354,13 +354,13 @@
         ]
     },
     {
-        "appName": "hot",
+        "app_name": "hot",
         "name": "HOT",
-        "imageUrl": "https://raw.githubusercontent.com/hot-dao/media/main/logo.png",
-        "aboutUrl": "https://hot-labs.org/",
-        "universalLink": "https://t.me/herewalletbot?attach=wallet",
-        "bridgeUrl": "https://sse-bridge.hot-labs.org",
-        "jsBridgeKey": "hotWallet",
+        "image_url": "https://raw.githubusercontent.com/hot-dao/media/main/logo.png",
+        "about_url": "https://hot-labs.org/",
+        "universal_link": "https://t.me/herewalletbot?attach=wallet",
+        "bridge_url": "https://sse-bridge.hot-labs.org",
+        "js_bridge_key": "hot_wallet",
         "platforms": [
             "ios",
             "android",
@@ -373,13 +373,13 @@
         ]
     },
     {
-        "appName": "okxTonWallet",
+        "app_name": "okx_ton_wallet",
         "name": "OKX",
-        "imageUrl": "https://static.okx.com/cdn/assets/imgs/247/58E63FEA47A2B7D7.png",
-        "aboutUrl": "https://www.okx.com/web3",
-        "universalLink": "https://www.okx.com/download?appendQuery=true&deeplink=okx://web3/wallet/tonconnect",
-        "bridgeUrl": "https://www.okx.com/tonbridge/discover/rpc/bridge",
-        "jsBridgeKey": "okxTonWallet",
+        "image_url": "https://static.okx.com/cdn/assets/imgs/247/58E63FEA47A2B7D7.png",
+        "about_url": "https://www.okx.com/web3",
+        "universal_link": "https://www.okx.com/download?append_query=true&deeplink=okx://web3/wallet/tonconnect",
+        "bridge_url": "https://www.okx.com/tonbridge/discover/rpc/bridge",
+        "js_bridge_key": "okx_ton_wallet",
         "platforms": [
             "chrome",
             "safari",
@@ -389,20 +389,20 @@
         ],
         "features": [
             {
-                "name": "SendTransaction",
-                "maxMessages": 4,
-                "extraCurrencySupported": false
+                "name": "Send_transaction",
+                "max_messages": 4,
+                "extra_currency_supported": false
             }
         ]
     },
     {
-        "appName": "okxWallet",
+        "app_name": "okx_wallet",
         "name": "OKX Wallet",
-        "imageUrl": "https://static.coinall.ltd/cdn/wallet/banner/7d3ef66c-a121-489f-8621-579ea9faf240-288_appicon.png",
-        "aboutUrl": "https://web3.okx.com",
-        "universalLink": "https://web3.okx.com/download?appendQuery=true&deeplink=okxwallet://web3/wallet/tonconnect",
-        "bridgeUrl": "https://web3.okx.com/tonbridge/discover/rpc/bridge",
-        "jsBridgeKey": "okxTonWallet",
+        "image_url": "https://static.coinall.ltd/cdn/wallet/banner/7d3ef66c-a121-489f-8621-579ea9faf240-288_appicon.png",
+        "about_url": "https://web3.okx.com",
+        "universal_link": "https://web3.okx.com/download?append_query=true&deeplink=okxwallet://web3/wallet/tonconnect",
+        "bridge_url": "https://web3.okx.com/tonbridge/discover/rpc/bridge",
+        "js_bridge_key": "okx_ton_wallet",
         "platforms": [
             "chrome",
             "safari",
@@ -412,20 +412,20 @@
         ],
         "features": [
             {
-                "name": "SendTransaction",
-                "maxMessages": 4,
-                "extraCurrencySupported": false
+                "name": "Send_transaction",
+                "max_messages": 4,
+                "extra_currency_supported": false
             }
         ]
     },
     {
-        "appName": "Fearless",
+        "app_name": "Fearless",
         "name": "Fearless",
-        "imageUrl": "https://raw.githubusercontent.com/soramitsu/shared-features-utils/master/icons/FW_icon_288.png",
-        "aboutUrl": "https://fearlesswallet.io",
-        "universalLink": "https://fearlesswallet.io/ton-connect",
-        "bridgeUrl": "https://fearless-ton-bridge.odachi.soramitsu.co.jp/bridge",
-        "jsBridgeKey": "Fearless",
+        "image_url": "https://raw.githubusercontent.com/soramitsu/shared-features-utils/master/icons/FW_icon_288.png",
+        "about_url": "https://fearlesswallet.io",
+        "universal_link": "https://fearlesswallet.io/ton-connect",
+        "bridge_url": "https://fearless-ton-bridge.odachi.soramitsu.co.jp/bridge",
+        "js_bridge_key": "Fearless",
         "platforms": [
             "ios",
             "android",
@@ -433,12 +433,12 @@
         ]
     },
     {
-        "appName": "blitzwallet",
+        "app_name": "blitzwallet",
         "name": "BLITZ wallet",
-        "imageUrl": "https://blitzwallet.cfd/wallet/public/logo.png",
-        "aboutUrl": "https://blitzwallet.cfd",
-        "universalLink": "https://t.me/blitz_wallet_bot?attach=wallet",
-        "bridgeUrl": "https://blitzwallet.cfd/bridge/",
+        "image_url": "https://blitzwallet.cfd/wallet/public/logo.png",
+        "about_url": "https://blitzwallet.cfd",
+        "universal_link": "https://t.me/blitz_wallet_bot?attach=wallet",
+        "bridge_url": "https://blitzwallet.cfd/bridge/",
         "platforms": [
             "ios",
             "android",
@@ -448,42 +448,42 @@
         ],
         "features": [
             {
-                "name": "SendTransaction",
-                "maxMessages": 4,
-                "extraCurrencySupported": false
+                "name": "Send_transaction",
+                "max_messages": 4,
+                "extra_currency_supported": false
             }
         ]
     },
     {
-        "appName": "GateWallet",
-        "name": "GateWallet",
-        "imageUrl": "https://img.gatedataimg.com/prd-ordinal-imgs/036f07bb8730716e/gateio-0925.png",
-        "aboutUrl": "https://www.gate.io/",
-        "bridgeUrl": "https://dapp.gateio.services/tonbridge_api/bridge/v1",
-        "jsBridgeKey": "gatetonwallet",
+        "app_name": "Gate_wallet",
+        "name": "Gate_wallet",
+        "image_url": "https://img.gatedataimg.com/prd-ordinal-imgs/036f07bb8730716e/gateio-0925.png",
+        "about_url": "https://www.gate.io/",
+        "bridge_url": "https://dapp.gateio.services/tonbridge_api/bridge/v1",
+        "js_bridge_key": "gatetonwallet",
         "platforms": [
             "ios",
             "android"
         ],
-        "universalLink": "https://gate.onelink.me/Hls0/web3?gate_web3_wallet_universal_type=ton_connect"
+        "universal_link": "https://gate.onelink.me/Hls0/web3?gate_web3_wallet_universal_type=ton_connect"
     },
     {
-        "appName": "cactuslink",
+        "app_name": "cactuslink",
         "name": "Cactus Link",
-        "imageUrl": "https://downloads.mycactus.com/288_cactus_link.png",
-        "aboutUrl": "https://www.mycactus.com/defi-connector",
-        "jsBridgeKey": "cactuslink_ton",
+        "image_url": "https://downloads.mycactus.com/288_cactus_link.png",
+        "about_url": "https://www.mycactus.com/defi-connector",
+        "js_bridge_key": "cactuslink_ton",
         "platforms": [
             "chrome"
         ],
         "features": [
             {
-                "name": "SendTransaction",
-                "maxMessages": 255,
-                "extraCurrencySupported": false
+                "name": "Send_transaction",
+                "max_messages": 255,
+                "extra_currency_supported": false
             },
             {
-                "name": "SignData",
+                "name": "Sign_data",
                 "types": [
                     "text",
                     "binary"
