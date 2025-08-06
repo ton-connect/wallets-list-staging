@@ -271,7 +271,7 @@
     },
     {
         "app_name": "okxTonWallet",
-        "name": "OKX Wallet",
+        "name": "OKX",
         "image": "https://static.okx.com/cdn/assets/imgs/247/58E63FEA47A2B7D7.png",
         "about_url": "https://www.okx.com/web3",
         "universal_url": "https://www.okx.com/download?appendQuery=true&deeplink=okx://web3/wallet/tonconnect",
@@ -906,6 +906,37 @@
             }
         ],
         "platforms": [
+            "ios",
+            "android"
+        ],
+        "features": [
+            {
+                "name": "SendTransaction",
+                "maxMessages": 4,
+                "extraCurrencySupported": false
+            }
+        ]
+    },
+    {
+        "app_name": "okxWallet",
+        "name": "OKX Wallet",
+        "image": "https://static.okx.com/cdn/web3/assets/imgs/70d223c0-8527-40c1-8292-b3cc10b53d88.png",
+        "about_url": "https://web3.okx.com",
+        "universal_url": "https://web3.okx.com/download?appendQuery=true&deeplink=okxwallet://web3/wallet/tonconnect",
+        "bridge": [
+            {
+                "type": "js",
+                "key": "okxTonWallet"
+            },
+            {
+                "type": "sse",
+                "url": "https://web3.okx.com/tonbridge/discover/rpc/bridge"
+            }
+        ],
+        "platforms": [
+            "chrome",
+            "safari",
+            "firefox",
             "ios",
             "android"
         ],
