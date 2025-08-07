@@ -992,22 +992,52 @@
             "android"
         ]
     },
-      {
-    "app_name": "coin98",
-    "name": "Coin98 ",
-    "image": "https://coin98.s3.ap-southeast-1.amazonaws.com/SocialLogo/ninetyeight.png",
-    "about_url": "https://docs.coin98.com",
-    "deepLink": "coin98://ton-connect",
-    "bridge": [
-      {
-        "type": "sse",
-        "url": "https://ton-bridge.coin98.tech/bridge"
-      }
-    ],
-    "platforms": [
-      "ios",
-      "android"
-    ],
-    "universal_url": "https://coin98.com/ton-connect"
-  }
+    {
+        "app_name": "coin98",
+        "name": "Coin98 ",
+        "image": "https://coin98.s3.ap-southeast-1.amazonaws.com/SocialLogo/ninetyeight.png",
+        "about_url": "https://docs.coin98.com",
+        "deepLink": "coin98://ton-connect",
+        "bridge": [
+            {
+                "type": "sse",
+                "url": "https://ton-bridge.coin98.tech/bridge"
+            }
+        ],
+        "platforms": [
+            "ios",
+            "android"
+        ],
+        "universal_url": "https://coin98.com/ton-connect"
+    },
+    {
+        "app_name": "unistash",
+        "name": "Unistash",
+        "image": "https://raw.githubusercontent.com/unistash-io/resources/refs/heads/main/logotype-256.png",
+        "about_url": "https://unistash.io",
+        "bridge": [
+            {
+                "type": "js",
+                "key": "unistash"
+            }
+        ],
+        "platforms": [
+            "ios"
+        ],
+        "features": [
+            {
+                "name": "SendTransaction",
+                "maxMessages": 4,
+                "extraCurrencySupported": false
+            },
+            {
+                "name": "SignData",
+                "types": [
+                    "text",
+                    "binary",
+                    "cell"
+                ]
+            }
+        ]
+    }
 ]
