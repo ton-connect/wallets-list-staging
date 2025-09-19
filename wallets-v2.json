@@ -1109,5 +1109,44 @@
             "extraCurrencySupported":false
          }
       ]
+   },
+   {
+      "app_name":"wallet_kit_demo_wallet",
+      "name":"WalletKitDemoWallet",
+      "image":"https://ton.org/download/ton_symbol.png",
+      "about_url":"https://walletkit-demo-wallet.vercel.app",
+      "universal_url":"https://walletkit-demo-wallet.vercel.app/ton-connect",
+      "bridge":[
+         {
+            "type":"js",
+            "key":"walletKitDemoWallet"
+         },
+         {
+            "type":"sse",
+            "url":"https://walletbot.me/tonconnect-bridge/bridge"
+         }
+      ],
+      "platforms":[
+         "chrome",
+         "safari",
+         "firefox",
+         "ios",
+         "android"
+      ],
+      "features":[
+         {
+            "name":"SendTransaction",
+            "maxMessages":255,
+            "extraCurrencySupported":true
+         },
+         {
+            "name":"SignData",
+            "types":[
+               "text",
+               "binary",
+               "cell"
+            ]
+         }
+      ]
    }
 ]
