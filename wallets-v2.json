@@ -1148,5 +1148,44 @@
             ]
          }
       ]
+   },
+   {
+      "app_name":"wallet_kit_demo_wallet_local",
+      "name":"WalletKitDemoWalletLocal",
+      "image":"https://ton.org/download/ton_symbol.png",
+      "about_url":"https://walletkit-demo-wallet.vercel.app",
+      "universal_url":"https://walletkit-demo-wallet.vercel.app/ton-connect",
+      "bridge":[
+         {
+            "type":"js",
+            "key":"walletKitDemoWallet"
+         },
+         {
+            "type":"sse",
+            "url":"http://localhost:8081/bridge"
+         }
+      ],
+      "platforms":[
+         "chrome",
+         "safari",
+         "firefox",
+         "ios",
+         "android"
+      ],
+      "features":[
+         {
+            "name":"SendTransaction",
+            "maxMessages":255,
+            "extraCurrencySupported":true
+         },
+         {
+            "name":"SignData",
+            "types":[
+               "text",
+               "binary",
+               "cell"
+            ]
+         }
+      ]
    }
 ]
