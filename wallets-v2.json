@@ -1187,5 +1187,40 @@
             ]
          }
       ]
+   },
+   {
+      "app_name":"TestWallet",
+      "name":"MyTonWallet",
+      "image":"https://mytonwallet.io",
+      "about_url":"https://mytonwallet.io",
+      "universal_url":"https://connect.mytonwallet.org",
+      "deepLink":"mytonwallet-tc://",
+      "bridge":[
+         {
+            "type":"sse",
+            "url":"https://walletbot.me/tonconnect-bridge/bridge"
+         }
+      ],
+      "platforms":[
+         "ios",
+         "android",
+         "windows",
+         "linux"
+      ],
+      "features":[
+         {
+            "name":"SendTransaction",
+            "maxMessages":4,
+            "extraCurrencySupported":true
+         },
+         {
+            "name":"SignData",
+            "types":[
+               "text",
+               "binary",
+               "cell"
+            ]
+         }
+      ]
    }
 ]
