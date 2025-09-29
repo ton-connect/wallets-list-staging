@@ -1,5 +1,5 @@
 [
-   {
+{
       "app_name":"telegram-wallet",
       "name":"Wallet",
       "image":"https://wallet.tg/images/logo-288.png",
@@ -34,7 +34,7 @@
          }
       ]
    },
-   {
+{
       "app_name":"tonkeeper",
       "name":"Tonkeeper",
       "image":"https://tonkeeper.com/assets/tonconnect-icon.png",
@@ -75,7 +75,7 @@
          }
       ]
    },
-   {
+{
       "app_name":"mytonwallet",
       "name":"MyTonWallet",
       "image":"https://static.mytonwallet.io/icon-256.png",
@@ -117,7 +117,7 @@
          }
       ]
    },
-   {
+{
       "app_name":"tonhub",
       "name":"Tonhub",
       "image":"https://tonhub.com/tonconnect_logo.png",
@@ -153,7 +153,7 @@
          }
       ]
    },
-   {
+{
       "app_name":"bitgetTonWallet",
       "name":"Bitget Wallet",
       "image":"https://raw.githubusercontent.com/bitgetwallet/download/refs/heads/main/logo/png/bitget_wallet_logo_288_mini.png",
@@ -183,7 +183,7 @@
          }
       ]
    },
-   {
+{
       "app_name":"okxMiniWallet",
       "name":"OKX Mini Wallet",
       "image":"https://static.okx.com/cdn/assets/imgs/2411/8BE1A4A434D8F58A.png",
@@ -210,7 +210,7 @@
          }
       ]
    },
-   {
+{
       "app_name":"binanceWeb3TonWallet",
       "name":"Binance Wallet",
       "image":"https://public.bnbstatic.com/static/binance-w3w/ton-provider/binancew3w.png",
@@ -242,7 +242,7 @@
          }
       ]
    },
-   {
+{
       "app_name":"fintopio-tg",
       "name":"Fintopio",
       "image":"https://raw.githubusercontent.com/fintopio/ton-pub/refs/heads/main/logos/tonconnect-icon.png",
@@ -269,7 +269,7 @@
          }
       ]
    },
-   {
+{
       "app_name":"okxTonWallet",
       "name":"OKX",
       "image":"https://static.okx.com/cdn/assets/imgs/247/58E63FEA47A2B7D7.png",
@@ -300,7 +300,7 @@
          }
       ]
    },
-   {
+{
       "app_name":"hot",
       "name":"HOT",
       "image":"https://raw.githubusercontent.com/hot-dao/media/main/logo.png",
@@ -331,7 +331,7 @@
          }
       ]
    },
-   {
+{
       "app_name":"bybitTonWallet",
       "name":"Bybit Wallet",
       "image":"https://raw.githubusercontent.com/bybit-web3/bybit-web3.github.io/main/docs/images/bybit-logo.png",
@@ -361,7 +361,7 @@
          }
       ]
    },
-   {
+{
       "app_name":"dewallet",
       "name":"DeWallet",
       "image":"https://raw.githubusercontent.com/delab-team/manifests-images/main/WalletAvatar.png",
@@ -388,7 +388,7 @@
          }
       ]
    },
-   {
+{
       "app_name":"safepalwallet",
       "name":"SafePal",
       "image":"https://s.pvcliping.com/web/public_image/SafePal_x288.png",
@@ -420,7 +420,7 @@
          }
       ]
    },
-   {
+{
       "app_name":"GateWallet",
       "name":"GateWallet",
       "image":"https://img.gatedataimg.com/prd-ordinal-imgs/036f07bb8730716e/gateio-0925.png",
@@ -448,7 +448,7 @@
          }
       ]
    },
-   {
+{
       "app_name":"openmask",
       "name":"OpenMask",
       "image":"https://raw.githubusercontent.com/OpenProduct/openmask-extension/main/public/openmask-logo-288.png",
@@ -470,7 +470,7 @@
          }
       ]
    },
-   {
+{
       "app_name":"BitgetWeb3",
       "name":"BitgetWeb3",
       "image":"https://img.bitgetimg.com/image/third/1731638059795.png",
@@ -497,7 +497,7 @@
          }
       ]
    },
-   {
+{
       "app_name":"xtonwallet",
       "name":"XTONWallet",
       "image":"https://xtonwallet.com/assets/img/icon-256-back.png",
@@ -520,7 +520,7 @@
          }
       ]
    },
-   {
+{
       "app_name":"tonwallet",
       "name":"TON Wallet",
       "image":"https://wallet.ton.org/assets/ui/qr-logo.png",
@@ -542,7 +542,7 @@
          }
       ]
    },
-   {
+{
       "app_name":"bitgetWalletLite",
       "name":"Bitget Wallet Lite",
       "image":"https://raw.githubusercontent.com/bitgetwallet/download/refs/heads/main/logo/png/bitget_wallet_lite_logo_288.png",
@@ -569,7 +569,7 @@
          }
       ]
    },
-   {
+{
       "app_name":"tomoWallet",
       "name":"Tomo Wallet",
       "image":"https://pub.tomo.inc/logo.png",
@@ -596,7 +596,7 @@
          }
       ]
    },
-   {
+{
       "app_name":"miraiapp-tg",
       "name":"Mirai Mini App",
       "image":"https://cdn.mirailabs.co/miraihub/miraiapp-tg-icon-288.png",
@@ -631,7 +631,7 @@
          }
       ]
    },
-   {
+{
       "app_name":"Architec.ton",
       "name":"Architec.ton",
       "image":"https://raw.githubusercontent.com/Architec-Ton/wallet-tma/refs/heads/dev/public/images/arcwallet_logo.png",
@@ -658,7 +658,7 @@
          }
       ]
    },
-   {
+{
       "app_name":"tokenpocket",
       "name":"TokenPocket",
       "image":"https://hk.tpstatic.net/logo/tokenpocket.png",
@@ -686,7 +686,7 @@
          }
       ]
    },
-   {
+{
       "app_name":"uxuyWallet",
       "name":"UXUY Wallet",
       "image":"https://chain-cdn.uxuy.com/logo/square_288.png",
@@ -713,7 +713,7 @@
          }
       ]
    },
-   {
+{
       "app_name":"tonkeeper-pro",
       "name":"Tonkeeper Pro",
       "image":"https://tonkeeper.com/assets/tonconnect-icon-pro.png",
@@ -749,7 +749,7 @@
          }
       ]
    },
-   {
+{
       "app_name":"nicegramWallet",
       "name":"Nicegram Wallet",
       "image":"https://static.nicegram.app/icon.png",
@@ -778,7 +778,7 @@
          }
       ]
    },
-   {
+{
       "app_name":"echoooTonWallet",
       "name":"EchoooWallet",
       "image":"https://cdn.echooo.xyz/front-end/source/images/logo/echooo-ton.png",
@@ -807,7 +807,7 @@
          }
       ]
    },
-   {
+{
       "app_name":"blitzwallet",
       "name":"BLITZ wallet",
       "image":"https://blitzwallet.cfd/wallet/public/logo.png",
@@ -834,7 +834,7 @@
          }
       ]
    },
-   {
+{
       "app_name":"koloWeb3Wallet",
       "name":"Kolo",
       "image":"https://raw.githubusercontent.com/onidev1/tc-assets/refs/heads/main/kolo_logo_288.png",
@@ -861,7 +861,7 @@
          }
       ]
    },
-   {
+{
       "app_name":"imToken",
       "name":"imToken",
       "image":"https://aws-v2-cdn.token.im/brand/imToken-logo.png",
@@ -890,7 +890,7 @@
          }
       ]
    },
-   {
+{
       "app_name":"okxWallet",
       "name":"OKX Wallet",
       "image":"https://static.okx.com/cdn/web3/assets/imgs/70d223c0-8527-40c1-8292-b3cc10b53d88.png",
@@ -921,7 +921,7 @@
          }
       ]
    },
-   {
+{
       "app_name":"defiway",
       "name":"Defiway",
       "image":"https://fs.defiway.com/icons/tonconnect-icon.png",
@@ -944,7 +944,7 @@
          "safari"
       ]
    },
-   {
+{
       "app_name":"walletverse",
       "name":"Walletverse",
       "image":"https://bridge.walletverse.io/logo.png",
@@ -965,7 +965,7 @@
          "android"
       ]
    },
-   {
+{
       "app_name":"coin98",
       "name":"Coin98 ",
       "image":"https://coin98.s3.ap-southeast-1.amazonaws.com/SocialLogo/ninetyeight.png",
@@ -983,7 +983,7 @@
       ],
       "universal_url":"https://coin98.com/ton-connect"
    },
-   {
+{
       "app_name":"unistash",
       "name":"Unistash",
       "image":"https://raw.githubusercontent.com/unistash-io/resources/refs/heads/main/logotype-256.png",
@@ -1013,7 +1013,7 @@
          }
       ]
    },
-   {
+{
       "app_name":"cactuslink",
       "name":"Cactus Link",
       "image":"https://downloads.mycactus.com/288_cactus_link.png",
@@ -1042,7 +1042,7 @@
          }
       ]
    },
-   {
+{
       "app_name":"onekey",
       "name":"OneKey",
       "image":"https://uni.onekey-asset.com/static/logo/onekey-x288.png",
@@ -1057,7 +1057,7 @@
          "chrome"
       ]
    },
-   {
+{
       "app_name":"u2uWallet",
       "name":"U2U Wallet",
       "image":"https://u2-images.s3.ap-southeast-1.amazonaws.com/hdw/logo/logo_u2u.png",
@@ -1082,7 +1082,7 @@
          }
       ]
    },
-   {
+{
       "app_name":"walletOnto",
       "name":"ONTO",
       "image":"https://onto.app/ontoMsgPic/onto.png",
@@ -1110,7 +1110,7 @@
          }
       ]
    },
-   {
+{
       "app_name":"wallet_kit_demo_wallet",
       "name":"WalletKitDemoWallet",
       "image":"https://ton.org/download/ton_symbol.png",
@@ -1149,7 +1149,7 @@
          }
       ]
    },
-   {
+{
       "app_name":"wallet_kit_demo_wallet_local",
       "name":"WalletKitDemoWalletLocal",
       "image":"https://ton.org/download/ton_symbol.png",
@@ -1184,6 +1184,40 @@
                "text",
                "binary",
                "cell"
+            ]
+         }
+      ]
+   },
+{
+      "app_name":"TestWallet",
+      "name":"MyTonWallet",
+      "image":"https://mytonwallet.io",
+      "about_url":"https://mytonwallet.io",
+      "universal_url":"https://connect.mytonwallet.org",
+      "deepLink":"mytonwallet-tc://",
+      "bridge":[
+         {
+            "type":"sse",
+            "url":"https://walletbot.me/tonconnect-bridge/bridge"
+         }
+      ],
+      "platforms":[
+         "ios",
+         "windows",
+         "android",
+         "chrome"
+      ],
+      "features":[
+         {
+            "name":"SendTransaction",
+            "maxMessages":4,
+            "extraCurrencySupported":true
+         },
+         {
+            "name":"SignData",
+            "types":[
+               "binary",
+               "text"
             ]
          }
       ]
