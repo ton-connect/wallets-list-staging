@@ -33,14 +33,14 @@ jobs:
           node-version: '${{ env.NVMRC }}'
 
       - name: Set up dependencies
-        run: npm ci
+        run: pnpm ci
 
       - name: Build tonconnect/protocol
         shell: bash
-        run: npx nx run protocol:build
+        run: pnpm build
 
       - name: Test sdk with new wallets list
         shell: bash
         run: |
           cd packages/sdk
-          VITE_WALLETS_LIST='${{ env.WALLETS_LIST }}' npm run test
+          VITE_WALLETS_LIST='${{ env.WALLETS_LIST }}' pnpm test
