@@ -1244,5 +1244,23 @@
        }
     ],
     "platforms": ["ios", "android"]
+  },
+   {
+    "app_name": "sparx",
+    "name": "SparX Wallet",
+    "image": "https://raw.githubusercontent.com/broxus/sparx-networks/refs/heads/master/icons/sparx/sparx.png",
+    "about_url": "https://sparxwallet.com",
+    "universal_url": "https://l.sparxwallet.com",
+    "bridge": [
+        {
+            "type": "js",
+            "key": "sparx"
+        },
+        {
+        "type": "sse",
+        "url": "https://ton-connect-bridge.sparxwallet.com/bridge"
+        }
+    ],
+    "platforms": ["ios", "android", "chrome", "firefox"]
   }
 ]
