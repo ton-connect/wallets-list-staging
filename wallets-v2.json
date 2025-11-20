@@ -1262,5 +1262,35 @@
         }
     ],
     "platforms": ["ios", "android", "chrome", "firefox"]
-  }
+  },
+   {
+      "app_name":"wallet_connect",
+      "name":"WalletConnect",
+      "image":"https://github.com/WalletConnect/walletconnect-assets/blob/master/Icon/Blue%20(Default)/Icon.png?raw=true",
+      "about_url":"https://reown.com/",
+      "universal_url":"https://reown.com/",
+      "bridge":[],
+      "platforms":[
+         "chrome",
+         "safari",
+         "firefox",
+         "ios",
+         "android"
+      ],
+      "features":[
+         {
+            "name":"SendTransaction",
+            "maxMessages":255,
+            "extraCurrencySupported":true
+         },
+         {
+            "name":"SignData",
+            "types":[
+               "text",
+               "binary",
+               "cell"
+            ]
+         }
+      ]
+   }
 ]
