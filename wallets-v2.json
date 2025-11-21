@@ -15,7 +15,6 @@
          "ios",
          "android",
          "macos",
-         "chrome",
          "windows",
          "linux"
       ],
@@ -231,6 +230,7 @@
          "ios",
          "android",
          "macos",
+         "chrome",
          "windows",
          "linux"
       ],
