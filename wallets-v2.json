@@ -1235,7 +1235,14 @@
         "url": "https://ton-connect-bridge.sparxwallet.com/bridge"
         }
     ],
-    "platforms": ["ios", "android", "chrome", "firefox"]
+    "platforms": ["ios", "android", "chrome", "firefox"],
+      "features": [
+      {
+        "name": "SendTransaction",
+        "maxMessages": 255,
+        "extraCurrencySupported": false
+      }
+    ]
   },
    {
     "app_name": "trustwalletTon",
