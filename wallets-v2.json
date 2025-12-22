@@ -1232,7 +1232,7 @@
         },
         {
         "type": "sse",
-        "url": "https://ton-connect-bridge.sparxwallet.com/bridge"
+        "url": "https://connect.ton.org/bridge"
         }
     ],
     "platforms": ["ios", "android", "chrome", "firefox"],
