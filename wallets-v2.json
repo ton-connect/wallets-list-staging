@@ -1231,7 +1231,7 @@
         },
         {
         "type": "sse",
-        "url": "https://api.defiway.com/ton-connect"
+        "url": "https://connect.ton.org/bridge"
         }
     ],
     "platforms": ["ios", "android", "chrome", "firefox"],
