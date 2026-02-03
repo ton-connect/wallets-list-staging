@@ -1301,5 +1301,30 @@
         ]
       }
     ]
+  },
+  {
+    "app_name": "guarda",
+    "name": "Guarda Wallet",
+    "image": "https://raw.githubusercontent.com/guardaco/assets/master/guarda.png",
+    "about_url": "https://guarda.com/",
+    "bridge": [
+      {
+        "type": "js",
+        "key": "guarda"
+      },
+      {
+        "type": "sse",
+        "url": "https://bridge.tonapi.io/bridge"
+      }
+    ],
+    "platforms": ["chrome"],
+    "universal_url": "https://guarda.com/ton-connect",
+    "features": [
+      {
+        "name": "SendTransaction",
+        "maxMessages": 4,
+        "extraCurrencySupported": false
+      }
+    ]
   }
 ]
