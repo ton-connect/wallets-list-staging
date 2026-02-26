@@ -891,7 +891,7 @@
       ]
    },
    {
-      "app_name":"Walletverse",
+      "app_name":"walletverse",
       "name":"Walletverse",
       "image":"https://bridge.walletverse.io/logo.png",
       "about_url":"https://walletverse.io",
@@ -906,10 +906,7 @@
             "key":"walletverse"
          }
       ],
-      "platforms":[
-         "ios",
-         "android"
-      ]
+      "platforms":["ios", "android"]
    },
    {
       "app_name":"coin98",
