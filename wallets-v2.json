@@ -150,6 +150,39 @@
                "binary",
                "cell"
             ]
+         },
+         {
+            "name":"SignMessage",
+            "maxMessages":255,
+            "extraCurrencySupported":true
+         },
+         {
+            "name":"SendTransactionDraft",
+            "types":[
+               "ton",
+               "jetton",
+               "nft"
+            ]
+         },
+         {
+            "name":"SignMessageDraft",
+            "types":[
+               "ton",
+               "jetton",
+               "nft"
+            ]
+         },
+         {
+            "name":"ActionDraft"
+         },
+         {
+            "name":"Intents",
+            "types":[
+               "txDraft",
+               "signMsgDraft",
+               "actionDraft",
+               "signData"
+            ]
          }
       ]
    },
@@ -1102,9 +1135,11 @@
                "cell"
             ]
          },
-          {
-              "name": "SignMessage"
-          },
+         {
+             "name": "SignMessage",
+             "maxMessages": 255,
+             "extraCurrencySupported": true
+         },
           {
               "name": "SendTransactionDraft",
               "types": [
@@ -1197,6 +1232,39 @@
                "text",
                "binary",
                "cell"
+            ]
+         },
+         {
+            "name":"SignMessage",
+            "maxMessages":255,
+            "extraCurrencySupported":true
+         },
+         {
+            "name":"SendTransactionDraft",
+            "types":[
+               "ton",
+               "jetton",
+               "nft"
+            ]
+         },
+         {
+            "name":"SignMessageDraft",
+            "types":[
+               "ton",
+               "jetton",
+               "nft"
+            ]
+         },
+         {
+            "name":"ActionDraft"
+         },
+         {
+            "name":"Intents",
+            "types":[
+               "txDraft",
+               "signMsgDraft",
+               "actionDraft",
+               "signData"
             ]
          }
       ]
@@ -1299,6 +1367,39 @@
                "text",
                "binary",
                "cell"
+            ]
+         },
+         {
+            "name":"SignMessage",
+            "maxMessages":255,
+            "extraCurrencySupported":true
+         },
+         {
+            "name":"SendTransactionDraft",
+            "types":[
+               "ton",
+               "jetton",
+               "nft"
+            ]
+         },
+         {
+            "name":"SignMessageDraft",
+            "types":[
+               "ton",
+               "jetton",
+               "nft"
+            ]
+         },
+         {
+            "name":"ActionDraft"
+         },
+         {
+            "name":"Intents",
+            "types":[
+               "txDraft",
+               "signMsgDraft",
+               "actionDraft",
+               "signData"
             ]
          }
       ]
