@@ -1103,7 +1103,9 @@
             ]
          },
           {
-              "name": "SignMessage"
+              "name": "SignMessage",
+              "maxMessages":255,
+              "extraCurrencySupported":true
           },
           {
               "name": "SendTransactionDraft",
