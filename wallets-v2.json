@@ -1390,5 +1390,37 @@
         "extraCurrencySupported": false
       }
     ]
+   },
+   {
+    "app_name": "nonada",
+    "name": "NoNada Wallet",
+    "image": "https://nonadawallet.com/icon-288.png",
+    "universal_url": "https://t.me/NoNadaWalletBot?attach=wallet",
+    "about_url": "https://nonadawallet.com",
+    "bridge": [
+      {
+        "type": "js",
+        "key": "nonada"
+      },
+      {
+        "type": "sse",
+        "url": "https://bridge.tonapi.io/bridge"
+      }
+    ],
+    "platforms": [
+      "chrome",
+      "ios",
+      "android",
+      "macos",
+      "windows",
+      "linux"
+    ],
+    "features": [
+      {
+        "name": "SendTransaction",
+        "maxMessages": 255,
+        "extraCurrencySupported": false
+      }
+    ]
   }
 ]
