@@ -1067,8 +1067,8 @@
    },
    {
       "app_name":"wallet_kit_demo_wallet",
-      "name":"WalletKitDemoWallet",
-      "image":"https://genuine-amusement-abf8b52228.media.strapiapp.com/icon_TON_color_9e74c93f5e.png",
+      "name":"WalletKit",
+      "image":"https://walletkit-demo-wallet.vercel.app/ton.svg",
       "about_url":"https://kit-demo-wallet-git-dev-timsdk-sign-message-updates-topteam.vercel.app",
       "universal_url":"https://kit-demo-wallet-git-dev-timsdk-sign-message-updates-topteam.vercel.app/ton-connect",
       "bridge":[
