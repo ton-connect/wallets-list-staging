@@ -31,6 +31,9 @@
                "binary",
                "cell"
             ]
+         },
+         {
+            "name":"EmbeddedRequest"
          }
       ]
    },
