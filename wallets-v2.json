@@ -1075,8 +1075,8 @@
       "app_name":"wallet_kit_demo_wallet",
       "name":"WalletKit",
       "image":"https://walletkit-demo-wallet.vercel.app/ton.svg",
-      "about_url":"https://kit-demo-wallet-git-dev-timsdk-sign-message-updates-topteam.vercel.app",
-      "universal_url":"https://kit-demo-wallet-git-dev-timsdk-sign-message-updates-topteam.vercel.app/ton-connect",
+      "about_url":"https://walletkit-demo-wallet.vercel.app",
+      "universal_url":"https://walletkit-demo-wallet.vercel.app/ton-connect",
       "bridge":[
          {
             "type":"js",
