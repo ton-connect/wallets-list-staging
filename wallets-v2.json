@@ -1081,7 +1081,7 @@
          },
          {
             "type":"sse",
-            "url":"https://walletbot.me/tonconnect-bridge/bridge"
+            "url":"https://connect.ton.org/bridge"
          }
       ],
       "platforms":[
