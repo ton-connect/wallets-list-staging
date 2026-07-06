@@ -1386,7 +1386,7 @@
       }
     ]
   },
- {
+  {
   "app_name": "kcwallet",
   "name": "KuCoin Web3 Wallet",
   "image": "https://static-public.kuweb3.net/web3/ea8e5682-7131-40c1-8f6e-78f6fbca7101.png",
@@ -1414,8 +1414,10 @@
         "binary",
         "cell"
       ]
-    },
-  {
+    }
+  ]
+ },
+ {
   "app_name": "sociawallet",
   "name": "SociaWallet",
   "image": "https://wallet.sociafober.me/logos/sociawallet.png",
@@ -1441,4 +1443,3 @@
   ]
 }
 ]
- 
